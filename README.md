@@ -1,4 +1,4 @@
-![{87E4DDAA-43B6-4F36-ACAE-850FFA0FE7E1}](https://github.com/user-attachments/assets/f5587035-333f-4cab-bbb1-a1b68f9e6069)# Site Checker - Verificador de Sites em Go
+# Site Checker - Verificador de Sites em Go
 
 Este é um simples sistema escrito em Go que verifica se um site está online e disponível, realizando uma requisição HTTP e analisando o status da resposta.
 
